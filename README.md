@@ -5,15 +5,15 @@ Desenvolvido desde a definição do problema, coleta, limpeza e análise dos dad
 
 ## Etapas do Projeto
 
-### 1 - Definição do Problema
+### 1 - Definição do Problema 
 
-### 2 - Coleta dos Dados
+### 2 - Coleta dos Dados [scraping.ipynb](./scraping.ipynb)
 
-### 3 - Preparação dos Dados
+### 3 - Preparação dos Dados [dataCleaning.ipynb](./dataCleaning.ipynb)
 
-### 4 - Análise de Dados
+### 4 - Análise de Dados [EDA.ipynb](./EDA.ipynb)
 
-### 5 - Modelagem
+### 5 - Modelagem [modelo.ipynb](./modelo.ipynb)
 
 ### 6 - Resultados
 
